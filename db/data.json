@@ -1,0 +1,18 @@
+{
+	"name" : {
+		"title": "",
+		"releaseDate": "",
+		"extraReleaseText": [""],
+		"extraPrereleaseText": [""]
+
+	},
+
+	"pokemon" : {
+		"title": "Pokemon Sword and Shield",
+		"releaseDate": "November 14 2019 00:00",
+		"extraReleaseText": [""],
+		"extraPrereleaseText": ["Go catch a Wooloo!", ""]
+
+	}
+	
+}
